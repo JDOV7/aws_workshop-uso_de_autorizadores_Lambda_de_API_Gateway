@@ -1,0 +1,11 @@
+{
+  "name": "aws_workshop-uso_de_autorizadores_lambda_de_api_gateway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lambda-final.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
